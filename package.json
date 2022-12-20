@@ -1,0 +1,21 @@
+{
+  "name": "playwright-001-test-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edersonlrf/playwright-001-test-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edersonlrf/playwright-001-test-project/issues"
+  },
+  "homepage": "https://github.com/edersonlrf/playwright-001-test-project#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.29.0"
+  }
+}
