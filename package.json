@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/edersonlrf/playwright-001-test-project#readme",
   "devDependencies": {
-    "@playwright/test": "^1.29.0"
+    "@playwright/test": "^1.29.0",
+    "prettier": "2.8.1"
   }
 }
